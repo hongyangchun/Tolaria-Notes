@@ -1,5 +1,5 @@
 ---
-is_ a: Responsibility
+is_a: Responsibility
 status: active
 belongs_to: "[[luca-rossi]]"
 ---
