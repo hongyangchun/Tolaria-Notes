@@ -32,7 +32,7 @@ Types in Tolaria are navigation aids, not enforcement mechanisms. There's no req
 
 ### 🪄**AI-first — but not AI-only**
 
-A vault of files works very well with AI agents, but you are free to use whatever you want. We support Claude Code and Codex CLI (for now), but you can edit the vault with any AI you want. We provide an AGENTS file ([[AGENTS]]) for your agents to figure out.
+A vault of files works very well with AI agents, but you are free to use whatever you want. We support Claude Code and Codex CLI (for now), but you can edit the vault with any AI you want. We provide an AGENTS file ([[agents]]) for your agents to figure out.
 
 ### 💪 **Built from real use**
 

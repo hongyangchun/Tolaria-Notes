@@ -8,7 +8,7 @@ Tolaria embraces AI without making it a requirement. You have options depending 
 
 ### AI works without integration
 
-Because Tolaria is a file-based vault with AGENTS.md documenting the format, any AI CLI can work well with it. Claude Code, Codex, OpenClaw. or your own assistant—all understand the vault structure.
+Because Tolaria is a file-based vault with an [[agents]] documenting the format, any AI CLI can work well with it. Claude Code, Codex, OpenClaw. or your own assistant—all understand the vault structure.
 
 Treat Tolaria notes like any other codebase and prompt naturally.
 
@@ -28,6 +28,6 @@ Click the AI icon in the breadcrumb bar to open the full AI panel. This gives yo
 
 ### Connection Status
 
-The bottom bar shows Claude Code connection status so you always know if AI features are available.
+The bottom bar shows the available connections with AI agents. Right now you can switch between Claude Code and Codex
 
 ![CleanShot 2026-04-17 at 15.51.39@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776433913782-CleanShot_2026-04-17_at_15.51.39_2x.png)
