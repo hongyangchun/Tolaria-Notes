@@ -37,5 +37,3 @@ Shows which AI Agents are available — currently Claude Code and Codex are supp
 ### 📣 Feedback
 
 You can get to Github issues to open bug reports or feature requests
-
-###
