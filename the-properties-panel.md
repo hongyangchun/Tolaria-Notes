@@ -1,6 +1,7 @@
 ---
 type: Note
 related_to: "[[tolaria]]"
+Status: Active
 ---
 # The Properties Panel
 
@@ -10,10 +11,10 @@ The properties panel shows and edits a note's frontmatter in a user-friendly way
 
 Different property types render with appropriate controls:
 
-- **Text and numbers** — Simple input fields
-- **Dates** — Date picker for easy selection
-- **Status** — Dropdown with predefined options
-- **Tags** — Tag input with autocomplete
+- **Text and numbers** — simple input fields
+- **Dates** — date picker for easy selection
+- **Status** — dropdown with predefined options
+- **Tags** — tag input with autocomplete
 
 ## Relationships
 

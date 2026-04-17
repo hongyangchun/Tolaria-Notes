@@ -26,8 +26,10 @@ You can reference existing notes by typing [[ and selecting from the autocomplet
 
 Click the AI icon in the breadcrumb bar to open the full AI panel. This gives you persistent conversation history with your AI agent.
 
+![CleanShot 2026-04-17 at 17.52.52@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776441193704-CleanShot_2026-04-17_at_17.52.52_2x.png)
+
 ### Connection Status
 
 The bottom bar shows the available connections with AI agents. Right now you can switch between Claude Code and Codex
 
-![CleanShot 2026-04-17 at 15.51.39@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776433913782-CleanShot_2026-04-17_at_15.51.39_2x.png)
+![CleanShot 2026-04-17 at 17.46.02@2x.png](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Ftolaria-getting-started%2Fattachments%2F1776440809229-CleanShot_2026-04-17_at_17.46.02_2x.png)
