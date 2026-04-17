@@ -1,4 +1,7 @@
 name: Active Projects
+icon: null
+color: null
+sort: null
 filters:
   all:
   - field: type
@@ -6,11 +9,4 @@ filters:
     value: Project
   - field: Status
     op: equals
-    value: Active
-  - any:
-    - field: status
-      op: equals
-      value: active
-    - field: date
-      op: after
-      value: in 1 week
+    value: In progress

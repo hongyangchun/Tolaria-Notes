@@ -2,7 +2,7 @@
 type: Note
 related_to: "[[tolaria]]"
 ---
-# The Bottom Bar
+# Bottom Bar
 
 The bottom bar is Tolaria's status bar — more informational than interactive. It keeps you aware of your current state without getting in your way.
 
