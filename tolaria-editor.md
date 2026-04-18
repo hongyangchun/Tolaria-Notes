@@ -1,6 +1,7 @@
 ---
 type: Note
 related_to: "[[tolaria]]"
+onboarding: 4
 ---
 # Editor
 
@@ -45,6 +46,8 @@ You can turn off the H1-to+filename sync in the settings
 Type `[[` to trigger autocomplete from your entire vault. This creates links to other notes, enabling the knowledge graph.
 
 Wikilinks also auto-update if the filename changes.
+
+![BlockNote image](asset://localhost/%2FUsers%2Fluca%2FWorkspace%2Flaputa%2Fattachments%2F1776508281809-CleanShot_2026-04-18_at_12.30.44_2x.png)
 
 ### Breadcrumb Bar Actions
 
