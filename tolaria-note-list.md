@@ -27,6 +27,12 @@ For properties that are URLs or other notes, you can open them directly from the
 
 You can perform instant keyword search within the current list of notes to filter down to what you need. This searches across all the notes content.
 
+### 🧭 Neighborhood mode
+
+Neighborhood mode pivots the note list around one note instead of a whole section. The selected note stays pinned at the top, and the rest of the list reorganizes into groups based on how notes connect to it.
+
+Use it when you want to move through related projects, people, or topics without jumping back to the sidebar. To enter Neighborhood mode, `cmd+click` a note in the list, or focus a note and press `cmd+enter`.
+
 ### ➕ Creating notes
 
 The + button in the note list creates a new note of the current type. If you're viewing a type-filtered section, the new note automatically gets that type.
