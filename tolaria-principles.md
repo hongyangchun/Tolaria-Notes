@@ -3,7 +3,7 @@ type: Note
 related_to: "[[tolaria]]"
 onboarding: 1
 ---
-# Tolaria Principles
+# Principles
 
 Tolaria is built on a few core principles that guide our design decisions:
 
