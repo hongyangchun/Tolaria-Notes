@@ -13,7 +13,7 @@ type: Note
 
 ## Todo
 
-- [ ] 今天要干什么去呢？
+- [ ] 今天要干什么去呢
 
 > 人生就像骑自行车
 
@@ -21,4 +21,4 @@ type: Note
 2. 你好
 3. 我也好
 
-Add image
+![PixPin\_2026-04-24\_11-14-27.png](asset://localhost/%2FUsers%2Fhongyangchun%2FCodebase%2FTolaria-Notes%2Fattachments%2F1777000515382-PixPin_2026-04-24_11-14-27.png)
