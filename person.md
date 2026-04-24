@@ -6,6 +6,7 @@ _order: 3
 _list_properties_display:
   - "url"
   - "related_to"
+_sort: "created:desc"
 ---
 
 # Person
